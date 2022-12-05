@@ -1,0 +1,39 @@
+
+.navbar{
+    box-shadow: 0px 2px 3px rgb(228, 224, 224);
+}
+
+  .mt{
+      margin-top:13rem;
+  }
+ 
+  section{
+    margin-bottom: 7em; 
+}
+.bi-arrow-right{
+    color: blue;
+}
+.row a{
+    text-decoration: none;
+}
+
+  .row a:hover{
+    color: black;
+}
+
+
+  .bi{
+    color: rgb(15, 15, 16) 
+  }
+  .bi:hover{
+    color: rgb(34, 34, 220)
+  }
+ 
+  footer{
+    background-color:#fafafb; 
+    padding-top: 40px; 
+    padding-bottom: 10px;
+  }
+.foot{
+  font-size: small;
+}
